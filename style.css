@@ -1,6 +1,29 @@
+body{
+background-color: rgb(85, 57, 57);
+  }
+
 .container{
-  padding: 30px;
-  
+  margin: 100px;
+  background-color: rgb(112, 79, 79);
 }
 
-h1
+@font-face {
+font-family: "AdineKirnberg-Script";
+src: url("AdineKirnberg-Script.ttf");
+font-family: "ChopinScript";
+src: url("ChopinScript.ttf");
+font-family: "ExtraOrnamentalNo2";
+src: url("ExtraOrnamentalNo2.ttf");
+  }
+
+h1{
+  font-family: "ExtraOrnamentalNo2";
+}
+
+p{
+  font-family: "ChopinScript";
+}
+
+h6{
+  font-family: "AdineKirnberg-Script";
+}
