@@ -25,16 +25,21 @@ src: url("ExtraOrnamentalNo2.ttf");
 
 h1{
   font-family: "ExtraOrnamentalNo2";
-  font-size: 1%;
 }
 
 a{
   font-family: "ChopinScript";
   text-decoration: none;
+  font-size: 20px;
 }
 
 
-li a{
+ol li a{
   font-family: "AdineKirnberg-Script";
+  text-decoration: none;
+}
+
+h4{
+  font-family: "ChopinScript";
   text-decoration: none;
 }
