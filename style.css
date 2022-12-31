@@ -1,11 +1,12 @@
 body{
-background-color: rgb(66, 3, 44);
+background-color: "black";
+color: "white";
   }
 
 .container{
   margin: 100px;
-  background-color: rgb(211, 107, 0);
   padding: 50px;
+  border-radius: 2%;
 }
 
 @font-face {
@@ -30,7 +31,7 @@ h1{
 a{
   font-family: "ChopinScript";
   text-decoration: none;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 
