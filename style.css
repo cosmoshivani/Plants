@@ -1,10 +1,10 @@
 body{
-background-color: rgb(85, 57, 57);
+background-color: rgb(66, 3, 44);
   }
 
 .container{
   margin: 100px;
-  background-color: rgb(112, 79, 79);
+  background-color: rgb(211, 107, 0);
   padding: 50px;
 }
 
@@ -25,6 +25,7 @@ src: url("ExtraOrnamentalNo2.ttf");
 
 h1{
   font-family: "ExtraOrnamentalNo2";
+  font-size: 1%;
 }
 
 a{
@@ -33,3 +34,7 @@ a{
 }
 
 
+li a{
+  font-family: "AdineKirnberg-Script";
+  text-decoration: none;
+}
