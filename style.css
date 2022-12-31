@@ -1,6 +1,6 @@
 body{
-background-color: "black";
-color: "white";
+background-color: black;
+color: white;
   }
 
 .container{
@@ -28,34 +28,33 @@ h1{
 }
 
 a{
-  font-family: "ChopinScript";
+  font-family: "ExtraOrnamentalNo2";
   text-decoration: none;
-  font-size: 30px;
   color: "purple";
 }
 
 ol{
-  font-family: "ChopinScript";
+  font-family: "ExtraOrnamentalNo2";
 }
 
 
 ol li a{
-  font-family: "ChopinScript";
+  font-family: "ExtraOrnamentalNo2";
   text-decoration: none;
-  color: "purple";
+  color: purple;
 }
 
 h4{
-  font-family: "ChopinScript";
+  font-family: "ExtraOrnamentalNo2";
   text-decoration: none;
 }
 
 p{
   font-size: 20px;
-  font-family: "ChopinScript";
+  font-family: "AdineKirnberg-Script";
   text-align: center;
   margin: 50px;
   padding: 20px;
-  background-color: "grey";
+  background-color: grey;
   
 }
