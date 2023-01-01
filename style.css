@@ -54,10 +54,11 @@ h4{
   font-family: "AdineKirnberg-Script";
   text-decoration: none;
   font-size: 30px;
+  text-align:center;
 }
 
 p{
-  font-size: 15px;
+  font-size: 30px;
   font-family: "ChopinScript";
   text-align: center;
   margin: 50px;
