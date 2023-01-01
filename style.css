@@ -35,6 +35,8 @@ a{
   text-decoration: none;
   font-size: 30px;
   text-align: center;
+  color: white;
+  
 }
 
 ol{
@@ -47,6 +49,7 @@ ol li a{
   font-family: "AdineKirnberg-Script";
   text-decoration: none;
   font-size: 30px;
+  color: white;
 }
 
 h4{
