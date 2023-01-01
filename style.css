@@ -5,8 +5,7 @@ text-align: center;
   }
 
 .container{
-  margin-top: 20px;
-  margin-left: 50px;
+ margin: 20px;
   padding: 50px;
 }
 
@@ -33,7 +32,7 @@ h1{
 a{
   font-family: "AdineKirnberg-Script";
   text-decoration: none;
-  font-size: 30px;
+  font-size: 35px;
   text-align: center;
   color: white;
   
@@ -48,14 +47,14 @@ ol{
 ol li a{
   font-family: "AdineKirnberg-Script";
   text-decoration: none;
-  font-size: 30px;
+  font-size: 35px;
   color: white;
 }
 
 h4{
   font-family: "AdineKirnberg-Script";
   text-decoration: none;
-  font-size: 30px;
+  font-size: 35px;
   text-align:center;
 }
 
@@ -72,7 +71,7 @@ width: 30%;
 
 img{
   display: block;
-  width: 35%;
+  width: 30%;
   margin-left: auto;
   margin-right: auto;
 }
