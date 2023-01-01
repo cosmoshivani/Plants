@@ -6,7 +6,7 @@ text-align: center;
   }
 
 .container{
-  margin-top: 10px;
+  margin-top: 20px;
   margin-left: 50px;
   padding: 50px;
 }
@@ -47,7 +47,8 @@ ol{
 ol li a{
   font-family: "AdineKirnberg-Script";
   text-decoration: none;
-  color: purple;
+  color: white;
+  font-size: 30px;
 }
 
 h4{
