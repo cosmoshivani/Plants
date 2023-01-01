@@ -1,6 +1,8 @@
-body{
+
+{
 background-color: black;
 color: white;
+text-align: center;
   }
 
 .container{
@@ -34,6 +36,7 @@ a{
   text-decoration: none;
   color: white;
   font-size: 30px;
+  text-align: center;
 }
 
 ol{
