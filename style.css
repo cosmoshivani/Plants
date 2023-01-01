@@ -1,5 +1,5 @@
 body{
-background-color: #aa574b;
+background-color: #E39828;
 color: white;
 text-align: center;
   }
@@ -43,6 +43,7 @@ a{
 ol{
   font-family: "ExtraOrnamentalNo2";
   text-align: center;
+  font-size: 40px;
 }
 
 
